@@ -1,0 +1,24 @@
+#reset-div {
+    margin-bottom: 10px;
+}
+
+#reset-btn {
+    display: block;
+    margin: auto;
+}
+
+#grid {
+    display: grid;
+    gap: 1px;
+    height: 900px;
+    width: 900px;
+}
+
+.cell {
+    background-color: ghostwhite;
+    border: 1px solid grey;
+}
+
+.painted {
+    background-color: black;
+}
